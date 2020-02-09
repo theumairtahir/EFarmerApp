@@ -1,0 +1,37 @@
+<resources>
+    <string name="tab_text_1">Buy (خرید)</string>
+    <string name="tab_text_2">Sell (فروخت)</string>
+    <string name="app_name" translatable="false">Pak Farmer</string>
+    <string name="quantity_scale">Ton (ٹن)</string>
+    <string name="currency">Rs. </string>
+    <string name="text_quantity">Quantity (مقدار): </string>
+    <string name="text_price">Price (قیمت):</string>
+    <string name="text_view_details_btn">Detail (تفصیل)</string>
+    <string name="text_advertisement_image">Advertisement Image</string>
+    <string name="text_interested_in">Interest(s) (دلچسپی):</string>
+    <string name="text_phone">Owner\'s Phone (مالک کا فون):</string>
+    <string name="text_quality">Quality (معیار): </string>
+    <string name="text_farmer_s_detail">"Farmer's Detail (کسان کی تفصیل): "</string>
+    <string name="txt_name_field_label">"Owner Name (مالک کا نام): "</string>
+    <string name="text_address_field_label">Address (پتہ):</string>
+    <string name="text_city_label">City/Village (شہر/گاؤں):</string>
+    <string name="view_crops">View Crops (فصلیں)</string>
+    <string name="search">Search (تلاش کریں)</string>
+    <string name="favorites">Favorites (پسندیدہ)</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_view_vegetables">View Vegetables (سبزیاں)</string>
+    <string name="text_view_fruits">View Fruits (پھل)</string>
+    <string name="broker_phone">Phone ( فون):</string>
+    <string name="text_refresh" translatable="false">Refresh</string>
+    <string name="text_btn_seller">Seller (بیچنے والے)</string>
+    <string name="text_btn_buyer">Buyer (خریدار)</string>
+    <string name="text_enter_your_name">Enter your name (نام)</string>
+    <string name="text_enter_your_address">Enter your address (پتہ)</string>
+    <string name="text_enter_your_phone_number">Enter your phone number (فون)</string>
+    <string name="text_register">Register</string>
+    <string name="text_add_advertisement_activity">New Advertisement (نیا اشتہار)</string>
+    <string name="text_select_type">Select Type (قسم)</string>
+    <string name="text_add_vegetable">Add Vegetable (سبزی)</string>
+    <string name="text_add_crop">Add Crop (فصل)</string>
+    <string name="text_add_fruit">Add Fruit (پھل)</string>
+</resources>
